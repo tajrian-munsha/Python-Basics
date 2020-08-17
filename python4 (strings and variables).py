@@ -6,7 +6,7 @@
 # here's variable name is "name". But we can call it anything as long the variable's name doesn't contain any space.
 # if some one give new value in the previous variable, python will remember the last value.
 
-# rules of variables-1.don't contain spaces.2.don't start with a number,3.the variable name should me specific because we can understand that easily.
+# rules of variables-1.don't contain spaces.2.don't start with a number,3.the variable name should be specific because we can understand that easily.
 
 # collect from the user-
 name = input("what is your name?")
